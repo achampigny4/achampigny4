@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my github! My name is Alissa, 
+### Hi there 👋 Welcome to my github! 
 
 🌱 I’m currently learning Full Stack Web Development!
 
