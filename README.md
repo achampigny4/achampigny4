@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-Welcome to my github! My name is Alissa, 
+### Welcome to my github! My name is Alissa, 
 
 🌱 I’m currently learning Full Stack Web Development!
 
-📫 How to reach me:
+#### 📫 How to reach me:
 
-  *[LinkedIn](https://www.linkedin.com/in/alissa-champigny-b1171a1a5/)
+   - [LinkedIn](https://www.linkedin.com/in/alissa-champigny-b1171a1a5/)
 
-  *[Email](achampigny4@gmail.com)
+   - [Email](achampigny4@gmail.com)
 
-  *[Portfolio](https://achampigny4.github.io/AlissaC-ResponsivePortfolio/)
+   - [Portfolio](https://achampigny4.github.io/AlissaC-ResponsivePortfolio/)
 
 
 
