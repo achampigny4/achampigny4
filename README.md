@@ -1,6 +1,10 @@
 ### Hi there 👋 Welcome to my github! 
 
-🌱 I’m currently learning Full Stack Web Development!
+🔭 I’m a Full Stack Web Developer!
+
+⚡ I worked in the medical field for 11 years and now I am excited to apply my interpersonal skills to help create user friendly applications.
+
+👯 I’m looking to collaborate on projects.
 
 #### 📫 How to reach me:
 
