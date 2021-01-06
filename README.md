@@ -10,7 +10,7 @@
 
    - [LinkedIn](https://www.linkedin.com/in/alissa-champigny-b1171a1a5/)
    
-   - [Portfolio](https://achampigny4.github.io/AlissaC-ResponsivePortfolio/)
+   - [Portfolio](https://achampigny4.github.io/achampigny-portfolio/)
 
    - Email: [achampigny4@gmail.com](achampigny4@gmail.com)
 
