@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my github! 
+### Hello 👋 Welcome to my github! 
 
 🔭 I’m a Full Stack Web Developer!
 
