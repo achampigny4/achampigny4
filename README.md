@@ -6,6 +6,8 @@
 
 👯 I’m looking to collaborate on projects.
 
+🔍 Open to new opportunities
+
 #### 📫 How to reach me:
 
    - [LinkedIn](https://www.linkedin.com/in/alissa-champigny-b1171a1a5/)
